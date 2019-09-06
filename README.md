@@ -13,4 +13,4 @@
 # git commit --amend -m ""
 # 2
 # 3
-# 4 deneme reject
+# 4 deneme reject hadi canım
