@@ -10,3 +10,7 @@
 # git rebase -i HEAD~3
 # git commit -am "cmd1"
 # git log --oneline
+# 1
+# 2
+# 3
+# 4
