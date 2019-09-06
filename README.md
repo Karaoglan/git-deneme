@@ -7,10 +7,10 @@
 # y1
 # y2
 # y3
-# git rebase -i HEAD~3
-# git commit -am "cmd1"
+# git rebase -i HEAD~
+# git commit -am ""
 # git log --oneline
-# 1
+# git commit --amend -m ""
 # 2
 # 3
-# 4
+# 4 deneme reject
