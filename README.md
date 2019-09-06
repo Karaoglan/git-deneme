@@ -7,3 +7,5 @@
 # y1
 # y2
 # y3
+# git rebase -i HEAD~3
+# git commit -am "cmd1"
