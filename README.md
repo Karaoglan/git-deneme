@@ -10,7 +10,7 @@
 # git rebase -i HEAD~3
 # git commit -am "cmd1"
 # git log --oneline
-# 1
+# git commit --amend -m "combined 1234"
 # 2
 # 3
-# 4
+# 4 deneme reject
